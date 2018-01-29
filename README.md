@@ -1,0 +1,2 @@
+# gns
+Digit sequence generator
